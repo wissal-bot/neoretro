@@ -1,0 +1,70 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_internals_export_js.js",
+        "/build/vendors-node_modules_core-js_modules_es_object_to-string_js-node_modules_core-js_modules_es_s-6657b7.js",
+        "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_symfony_ux-dropzone_d-deafff.js",
+        "/build/app.js"
+      ],
+      "css": [
+        "/build/app.css"
+      ]
+    },
+    "carousel-small": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_internals_export_js.js",
+        "/build/carousel-small.js"
+      ]
+    },
+    "carousel-big": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_internals_export_js.js",
+        "/build/carousel-big.js"
+      ]
+    },
+    "pictureModal": {
+      "js": [
+        "/build/runtime.js",
+        "/build/pictureModal.js"
+      ]
+    },
+    "inputs": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_internals_export_js.js",
+        "/build/vendors-node_modules_core-js_modules_es_object_to-string_js-node_modules_core-js_modules_es_s-6657b7.js",
+        "/build/vendors-node_modules_core-js_modules_es_array_from_js-node_modules_core-js_modules_es_array_i-8c241a.js",
+        "/build/inputs.js"
+      ]
+    },
+    "searchbar": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_internals_export_js.js",
+        "/build/searchbar.js"
+      ]
+    },
+    "toggle": {
+      "js": [
+        "/build/runtime.js",
+        "/build/toggle.js"
+      ]
+    },
+    "reviewModal": {
+      "js": [
+        "/build/runtime.js",
+        "/build/reviewModal.js"
+      ]
+    },
+    "notationReview": {
+      "js": [
+        "/build/runtime.js",
+        "/build/notationReview.js"
+      ]
+    }
+  }
+}
